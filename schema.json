@@ -1,0 +1,54 @@
+[
+  {
+    "name": "surface",
+    "type": "STRING"
+  },
+  {
+    "name": "left",
+    "type": "INTEGER"
+  },
+  {
+    "name": "right",
+    "type": "INTEGER"
+  },
+  {
+    "name": "cost",
+    "type": "INTEGER"
+  },
+  {
+    "name": "pos",
+    "type": "STRING"
+  },
+  {
+    "name": "pos_detail_1",
+    "type": "STRING"
+  },
+  {
+    "name": "pos_detail_2",
+    "type": "STRING"
+  },
+  {
+    "name": "pos_detail_3",
+    "type": "STRING"
+  },
+    {
+    "name": "conjugated_form",
+    "type": "STRING"
+  },
+  {
+    "name": "conjugated_type",
+    "type": "STRING"
+  },
+  {
+    "name": "base_form",
+    "type": "STRING"
+  },
+  {
+    "name": "reading",
+    "type": "STRING"
+  },
+  {
+    "name": "phonetic",
+    "type": "STRING"
+  }
+]
